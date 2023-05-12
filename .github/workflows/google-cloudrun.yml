@@ -49,6 +49,7 @@ on:
 #    branches: [ "master" ]
    workflow_dispatch:
 
+
 env:
   PROJECT_ID: book-service-386415 # TODO: update Google Cloud project id
   GAR_LOCATION: europe-north1 # TODO: update Artifact Registry location
