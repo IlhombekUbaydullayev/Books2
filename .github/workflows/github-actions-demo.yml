@@ -1,4 +1,4 @@
-image: openjdk:11-jdk-stretch
+image: openjdk:17-jdk-stretch
 
 stages:
   - build
