@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 jobs:
   build:
+    name: Build with Gradle
     runs-on: windows-latest
     steps:
       - name: Checkout
